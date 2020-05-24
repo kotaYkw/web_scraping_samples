@@ -1,0 +1,4 @@
+*.db
+/captcha
+/downloads
+/images
